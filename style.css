@@ -147,7 +147,7 @@ a.btn.cyan:hover {
     left: 0;
     width: 100%;
     z-index: -1;
-    display: none;
+    display: block;
 }
 .polygon-container .polygon{
     position: absolute;
